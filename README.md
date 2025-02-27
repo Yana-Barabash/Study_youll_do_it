@@ -1,1 +1,1 @@
-goit-js-hw-04
+study hard you will do it
